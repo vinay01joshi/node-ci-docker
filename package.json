@@ -1,0 +1,22 @@
+{
+  "name": "node-ci-docker",
+  "version": "1.0.0",
+  "description": "CI Build using Docker , Docker Hub , Git Hub and Circle CI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "circle-ci",
+    "node"
+  ],
+  "author": "Vinay Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
+  }
+}
